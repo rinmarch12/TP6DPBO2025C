@@ -11,7 +11,6 @@ Dokumentasi
 Alur Program
 ---
 1. Tampilan Awal
----
 Saat aplikasi dijalankan, pengguna akan melihat tampilan utama yang berisi:
 - Latar belakang permainan
 - Karakter burung yang belum bergerak
